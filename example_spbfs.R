@@ -1,6 +1,3 @@
-install.packages("C:/Temp/spbfs_1.0.tar.gz",
-                 repos = NULL,
-                 type = "source")
 library(spbfs)
 
 #Pre-requirment libraries
