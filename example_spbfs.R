@@ -14,7 +14,7 @@ library(spbfs)
 
 #Applying sub-population-based feature selection.
 {
-  Results <- spbfs(DATA_FRAME = DATA_FRAME,
+  Results <- get_selected_features(DATA_FRAME = DATA_FRAME,
                    FEATURE_NAMES = FEATURE_NAMES,
                    OUTCOME_VAR_NAME = OUTCOME_VAR_NAME,
                    NUM_ITERATIONS = 100,
