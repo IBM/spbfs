@@ -1,4 +1,5 @@
-library(spbfs)
+install.packages("devtools"); library(devtools)
+install_github("IBM/spbfs"); library('spbfs')
 
 #Pre-requirment libraries
 
