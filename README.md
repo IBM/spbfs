@@ -11,7 +11,7 @@ spbfs(DATA_FRAME, FEATURE_NAMES, OUTCOME_VAR_NAME, NUM_ITERATIONS = 100, NUM_RAN
 
 ## License
 
-License 2.0
+Apache-2.0 License
 
 ## Authors
 
